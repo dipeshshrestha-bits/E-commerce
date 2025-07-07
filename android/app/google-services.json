@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "168801877195",
+    "project_id": "facebook-46ceb",
+    "storage_bucket": "facebook-46ceb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168801877195:android:e9023299d96290c9662f4e",
+        "android_client_info": {
+          "package_name": "com.example.e_commerce_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWn6JkLsaNpPmJ22_MPAw3Rm1RUDnmUtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168801877195:android:808b11e1b34f7280662f4e",
+        "android_client_info": {
+          "package_name": "com.example.facebook_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWn6JkLsaNpPmJ22_MPAw3Rm1RUDnmUtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
